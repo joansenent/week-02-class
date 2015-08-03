@@ -82,11 +82,11 @@ Where should you handle the exception?
 * Iterate an array with blocks
 
 ### Hashes
-# Creating a hash
-# Access values with explicit keys
-# Hash with blocks
-# Symbols 
-# Using a hash as a method parameter
+* Creating a hash
+* Access values with explicit keys
+* Hash with blocks
+* Symbols 
+* Using a hash as a method parameter
 
 ### Excercises
 1. Create a hard coded list of numbers. Loop through them, displaying each one to the console
@@ -111,7 +111,7 @@ file.close
 
 ### Excercises
 
-Use exception handling to make sure that code above always closes the file
+1. Use exception handling to make sure that code above always closes the file
 
 ### Writing to a file - cont.
 
