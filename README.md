@@ -9,11 +9,11 @@
 | 2. Recap of coursework from week 1  | 18:10  | 18:30  | 20 min  |
 | 3. Class attributes  | 18:30  | 18:50  | 20 min  |
 | break  | 18:50  | 19:00  | 10 min  |
-| 4. Exception handling  | 19:00  | 19:40  | 40 min  |
-| break  | 19:40  | 19:45  | 5 min  |
-| 5. Arrays and Hashes  | 19:45  | 20:30  | 45 min  |
-| break  | 20:30  | 20:35  | 5 min  |
-| Q & A \ buffer  | 20:35  | 21:00  | 25 min  |
+| 4. Exception handling  | 19:00  | 19:30  | 30 min  |
+| break  | 19:30  | 19:35  | 5 min  |
+| 5. Arrays and Hashes  | 19:35  | 20:35  | 60 min  |
+| break  | 20:35  | 20:40  | 5 min  |
+| Q & A \ buffer  | 20:40  | 21:00  | 20 min  |
 
 
 
