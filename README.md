@@ -5,6 +5,8 @@
 2. Recap of coursework from week 1 - 
 3. 
 
+
+| ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
 
