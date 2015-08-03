@@ -2,7 +2,8 @@
 
 ## A bit of Git
 ### Git Aliases
-These are cutom short cuts for Git commands:
+These are cutsom short cuts for Git commands.
+The following examples may help you:
 ```
 git config --global alias.co checkout
 git config --global alias.br branch
