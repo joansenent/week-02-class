@@ -1,8 +1,16 @@
 # Week 2
 
+## Rough plan
+1. A bit of Git - 10 min - 18:00 - 18:10
+2. Recap of coursework from week 1 - 
+3. 
+
+| Content Cell  | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
 ## 1. A bit of Git
 ### Git Aliases 
-#### 10 min - 18:00 - 18:10
 These are cutsom short cuts for Git commands.
 The following examples may help you:
 ```
@@ -14,16 +22,21 @@ git config --global alias.ls "log --pretty=format:'%C(yellow)%h%Cred%d\\ %Creset
 ```
 
 ## 2. Recap of coursework from week 1
+##### 20 min - 18:10 - 18:30
 * Project Person
 * Project Account
 * Project Bank
 
 ## 3. Class attributes 
+##### 20 min - 18:30 - 18:50
 * attr_accessor
 * attr_reader
 * attr_writer
 
+###### break
+
 ## 4. Exception handling
+##### 30 min - 19:00 - 19:30
 
 ### Example of an exception
 ```ruby
@@ -76,7 +89,10 @@ An interesting read - http://stackoverflow.com/a/2192010/259477
 4.1. Make the Account class throw an exception if we try to withdraw more money than is in the balance.
 Where should you handle the exception?
 
+###### break
+
 ## 5. Arrays and Hashes
+##### 45 min - 19:35 - 19:20
 
 ### Arrays
 * Arrays are lists
@@ -100,6 +116,8 @@ Where should you handle the exception?
 5.4. Create a list of 5 random numbers, from 1 - 10 (inclusive of 1, exclusive of 10). Ask the user to try and guess a number that is in the list.
 
 ## 6. Files
+##### 20 min - 19:30 - 19:50
+
 ### Writing to a file
 
 Using the File class:
