@@ -155,7 +155,7 @@ puts contents
 
 The file is automatically closed when the block ends
 
-### readlines and read line
+### readlines and readline
 
 A very common approach to reading files:
 
