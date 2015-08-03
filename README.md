@@ -1,6 +1,6 @@
 # Week 2
 
-## A bit of Git
+## 1. A bit of Git
 ### Git Aliases
 These are cutsom short cuts for Git commands.
 The following examples may help you:
@@ -12,17 +12,17 @@ git config --global alias.st status
 git config --global alias.ls "log --pretty=format:'%C(yellow)%h%Cred%d\\ %Creset%s%Cblue\\ [%cn]' --decorate"
 ```
 
-## Recap of coursework from week 1
+## 2. Recap of coursework from week 1
 * Project Person
 * Project Account
 * Project Bank
 
-## Class attributes 
+## 3. Class attributes 
 * attr_accessor
 * attr_reader
 * attr_writer
 
-## Exception handling
+## 4. Exception handling
 
 ### Example of an exception
 ```ruby
@@ -71,10 +71,10 @@ An interesting read - http://stackoverflow.com/a/2192010/259477
 
 
 ### Excercise
-1. Make the Account class throw an exception if we try to withdraw more money than is in the balance
+4.1. Make the Account class throw an exception if we try to withdraw more money than is in the balance
 Where should you handle the exception?
 
-## Arrays and Hashes
+## 5. Arrays and Hashes
 
 ### Arrays
 * Arrays are lists
@@ -89,15 +89,15 @@ Where should you handle the exception?
 * Using a hash as a method parameter
 
 ### Excercises
-1. Create a hard coded list of numbers. Loop through them, displaying each one to the console
+5.1. Create a hard coded list of numbers. Loop through them, displaying each one to the console
 
-2. Create a hard coded list of numbers. Display only the odd numbers to the console
+5.2. Create a hard coded list of numbers. Display only the odd numbers to the console5.5.
 
-3. Create a hard coded list of numbers. Display the count of even and odd numbers
+5.3. Create a hard coded list of numbers. Display the count of even and odd numbers
 
-4. Create a list of 5 random numbers, from 1 - 10 (inclusive of 1, exclusive of 10). Ask the user to try and guess a number that is in the list.
+5.4. Create a list of 5 random numbers, from 1 - 10 (inclusive of 1, exclusive of 10). Ask the user to try and guess a number that is in the list.
 
-## Files
+## 6. Files
 ### Writing to a file
 
 Using the File class:
@@ -111,7 +111,7 @@ file.close
 
 ### Excercises
 
-1. Use exception handling to make sure that code above always closes the file
+6.1. Use exception handling to make sure that code above always closes the file
 
 ### Writing to a file - cont.
 
@@ -179,7 +179,8 @@ Note: don't forget to use exception handling in this example
 Readline loads the entire file at once into memory. While this is fine for most applications, this is not good practice if the file is very large, especially if it is running on a server that is serving multiple users.
 
 ### Excercises
-1. The anagram challange - http://codekata.com/kata/kata06-anagrams/
+6.1. The anagram challange - http://codekata.com/kata/kata06-anagrams/
 
+It would be a good idea to copy the dictionary to your working folder: http://codekata.com/data/wordlist.txt
 
 
