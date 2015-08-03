@@ -52,7 +52,7 @@ end
 ```
 
 Ensure - to make sure code always executes:
-
+```ruby 
 begin
   puts "Hello, world!"
 rescue
@@ -62,6 +62,7 @@ else
 ensure
   puts "ensure"
 end
+```
 
 This will print ```Hello, world! else ensure```
 
