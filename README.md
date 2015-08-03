@@ -72,7 +72,7 @@ An interesting read - http://stackoverflow.com/a/2192010/259477
 
 
 ### Excercise
-4.1. Make the Account class throw an exception if we try to withdraw more money than is in the balance
+4.1. Make the Account class throw an exception if we try to withdraw more money than is in the balance.
 Where should you handle the exception?
 
 ## 5. Arrays and Hashes
