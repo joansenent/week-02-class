@@ -9,4 +9,8 @@ class Person
 		@first_name + " " + @last_name
 	end
 
+	def set_first_name(name)
+		
+	end
+
 end
