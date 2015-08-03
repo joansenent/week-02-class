@@ -92,7 +92,7 @@ Where should you handle the exception?
 ### Excercises
 5.1. Create a hard coded list of numbers. Loop through them, displaying each one to the console
 
-5.2. Create a hard coded list of numbers. Display only the odd numbers to the console5.5.
+5.2. Create a hard coded list of numbers. Display only the odd numbers to the console
 
 5.3. Create a hard coded list of numbers. Display the count of even and odd numbers
 
