@@ -1,7 +1,7 @@
 # Week 2
 
 ## A bit of Git
-# Git Aliases
+### Git Aliases
 These are cutom short cuts for Git commands:
 ```
 git config --global alias.co checkout
