@@ -1,17 +1,21 @@
 # Week 2
 
-## Rough plan
-1. A bit of Git - 10 min - 18:00 - 18:10
-2. Recap of coursework from week 1 - 
-3. 
 
-
-
+## Rough plan for Monday
 
 | Topic  | Start Time | End Time | Duration |
 | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 1. A bit of Git  | 18:00  | 18:10  | 10 min  |
+| 2. Recap of coursework from week 1  | 18:10  | 18:30  | 20 min  |
+| 3. Class attributes  | 18:30  | 18:50  | 10 min  |
+| break  | 18:50  | 19:00  | 10 min  |
+| 4. Exception handling  | 19:00  | 19:40  | 40 min  |
+| break  | 19:40  | 19:45  | 5 min  |
+| 5. Arrays and Hashes  | 19:45  | 20:30  | 45 min  |
+| break  | 20:30  | 20:35  | 5 min  |
+| Q & A | buffer  | 20:35  | 21:00  | 25 min  |
+
+
 
 
 ## 1. A bit of Git
@@ -27,13 +31,11 @@ git config --global alias.ls "log --pretty=format:'%C(yellow)%h%Cred%d\\ %Creset
 ```
 
 ## 2. Recap of coursework from week 1
-##### 20 min - 18:10 - 18:30
 * Project Person
 * Project Account
 * Project Bank
 
 ## 3. Class attributes 
-##### 20 min - 18:30 - 18:50
 * attr_accessor
 * attr_reader
 * attr_writer
@@ -41,8 +43,6 @@ git config --global alias.ls "log --pretty=format:'%C(yellow)%h%Cred%d\\ %Creset
 ###### break
 
 ## 4. Exception handling
-##### 30 min - 19:00 - 19:30
-
 ### Example of an exception
 ```ruby
 a = 5 + "5"
@@ -97,8 +97,6 @@ Where should you handle the exception?
 ###### break
 
 ## 5. Arrays and Hashes
-##### 45 min - 19:35 - 19:20
-
 ### Arrays
 * Arrays are lists
 * Iterate an array with while loops
@@ -119,6 +117,8 @@ Where should you handle the exception?
 5.3. Create a hard coded list of numbers. Display the count of even and odd numbers
 
 5.4. Create a list of 5 random numbers, from 1 - 10 (inclusive of 1, exclusive of 10). Ask the user to try and guess a number that is in the list.
+
+###### break
 
 ## 6. Files
 ##### 20 min - 19:30 - 19:50
