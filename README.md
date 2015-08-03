@@ -7,7 +7,7 @@
 | ------------- | ------------- | ------------- | ------------- |
 | 1. A bit of Git  | 18:00  | 18:10  | 10 min  |
 | 2. Recap of coursework from week 1  | 18:10  | 18:30  | 20 min  |
-| 3. Class attributes  | 18:30  | 18:50  | 10 min  |
+| 3. Class attributes  | 18:30  | 18:50  | 20 min  |
 | break  | 18:50  | 19:00  | 10 min  |
 | 4. Exception handling  | 19:00  | 19:40  | 40 min  |
 | break  | 19:40  | 19:45  | 5 min  |
