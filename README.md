@@ -8,7 +8,7 @@
 
 
 
-| First Header  | Second Header | Second Header | Second Header |
+| Topic  | Start Time | End Time | Duration |
 | ------------- | ------------- | ------------- | ------------- |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
