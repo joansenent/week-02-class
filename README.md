@@ -1,7 +1,8 @@
 # Week 2
 
 ## 1. A bit of Git
-### Git Aliases # 10 min
+### Git Aliases 
+#### 10 min - 18:00 - 18:10
 These are cutsom short cuts for Git commands.
 The following examples may help you:
 ```
