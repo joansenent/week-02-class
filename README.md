@@ -13,7 +13,7 @@
 | break  | 19:40  | 19:45  | 5 min  |
 | 5. Arrays and Hashes  | 19:45  | 20:30  | 45 min  |
 | break  | 20:30  | 20:35  | 5 min  |
-| Q & A | buffer  | 20:35  | 21:00  | 25 min  |
+| Q & A \ buffer  | 20:35  | 21:00  | 25 min  |
 
 
 
